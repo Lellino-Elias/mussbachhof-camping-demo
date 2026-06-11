@@ -18,7 +18,6 @@ const mussbachhof: CampsiteConfig = {
   brandKind: "Stellplatz am Biobauernhof",
   regionLong: "Saalfelden am Steinernen Meer · Pinzgau · Salzburger Land",
 
-  theme: "alpin",
   heroVariant: "center",
 
   claim: "Dein Wohnmobil am Fuße des Steinernen Meeres",
@@ -183,7 +182,6 @@ const mussbachhof: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.454224, lng: 12.832622 },
     tel: "+43 6582 735 51",
     telHref: "tel:+43658273551",
     mail: "info@bauernhofurlaub-salzburg.com",
