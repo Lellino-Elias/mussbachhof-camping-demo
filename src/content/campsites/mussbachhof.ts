@@ -182,6 +182,7 @@ const mussbachhof: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.45435, lng: 12.833921 },
     tel: "+43 6582 735 51",
     telHref: "tel:+43658273551",
     mail: "info@bauernhofurlaub-salzburg.com",
